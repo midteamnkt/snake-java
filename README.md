@@ -64,4 +64,4 @@ src/
 - 🌍 [GitHub](https://github.com/midteamnkt/snake-java)
 - 📩 [Issues](https://t.me/Ilyxaaa0)
 
-## ✅ Готово к использованию! Наслаждайтесь игрой! 🎮
+✅ Готово к использованию! Наслаждайтесь игрой! 🎮
